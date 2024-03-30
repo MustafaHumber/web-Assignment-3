@@ -1,0 +1,11 @@
+# Interactive Quiz
+
+Welcome to the Interactive Quiz project! This is a simple yet engaging quiz application built using HTML, CSS, and JavaScript. Users can test their knowledge by answering multiple-choice questions and receive instant feedback on their responses.
+
+## Features
+
+- **Questionnaire**: The quiz includes five thought-provoking multiple-choice questions.
+- **Immediate Feedback**: Users receive immediate feedback upon submitting their answers, letting them know whether they answered correctly or not.
+- **Scoring**: The quiz keeps track of the user's score and displays it after completing all questions.
+
+
